@@ -1,33 +1,25 @@
 ---
-title: "/sbin/init: Why this blog?"
-description: Hello World.
-date: "2020-04-26"
+title: "git init && git add 'First blog post'"
+description: hello world
+date: "2022-01-12"
 draft: false
-slug: "/blog/sbin-init"
+slug: "/blog/git-init"
 tags:
   - Talk
   - Misc
 ---
 
-I am Arjun Nemani, a computer science student at IIIT-H and this is my personal blog.
+Bonjour,
 
-I have been thinking about writing about my technical exploits for a long time.
+I am Debjyoti Ghosh, final year student at IIT-Kharagpur and this is my personal blog.
+Here, I will be sharing my thoughts, experiences and learnings as I move forward in life.
 
-The thought started out as a desire to emulate my role models, but it has grown a lot.
-
-<div style="position:relative;height:0;overflow:hidden;max-width:100%;padding-bottom:56.25%;">
-  <iframe src="https://giphy.com/embed/3oEjHWbXcpeKhTktXi"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    frameborder="0"
-    allowfullscreen>
-  </iframe>
+<div style="position:relative;height:0;overflow:hidden;max-width:100%;padding-bottom:40.25%;">
+<iframe src="https://giphy.com/embed/xT8qBsOjMOcdeGJIU8" width="480" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/monstercat-edm-electronic-music-xT8qBsOjMOcdeGJIU8"></a></p>
 </div>
+I've always been fascinated by the wonders of technology and how it intertwines with our daily lives. Through this blog, I want to create a space where I can openly express my thoughts and discoveries in a relatable way. You can expect a mix of personal experiences, lessons learned, and maybe even a few funny anecdotes along the way.
 
-I now think that having a technical blog is essential for a person like me — someone who eats, breaths and sleeps tech.
+I feel that writing blog on literally anything- projects, events, experiences can be rewarding as it helps to revision the entire thing, focus on nitty gritty stuff, simulate deep thinking and inculcate
+a sense of introspection and self-reflection.
 
-I feel that writing about your work allows you to think deeply and formalize the teachings of each day. Also, it is a great way of showcasing projects in depth.
-
-This will be a place for me to share my ideas, projects, and learnings from my various pursuits.
-While being mostly technical I will also share what I learned from organizing various events.
-
-Thank you for joining me on this journey of self-discovery and technology.
+So, buckle up and join me on this journey as we dive into the fascinating world of technology, and explore how it shapes our lives, one post at a time!"

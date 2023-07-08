@@ -2,7 +2,7 @@
 title: "Experience Log"
 description: A brief history of my working exp
 date: "2020-06-28"
-draft: true
+draft: false
 slug: "/blog/exp-log"
 tags:
   - Personal

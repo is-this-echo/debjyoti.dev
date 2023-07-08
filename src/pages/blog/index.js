@@ -1,12 +1,12 @@
-import React from "react";
-import { graphql, Link } from "gatsby";
-import { Helmet } from "react-helmet";
-import kebabCase from "lodash/kebabCase";
-import PropTypes from "prop-types";
-import { Layout } from "@components";
-import { IconZap } from "@components/icons";
-import styled from "styled-components";
-import { theme, mixins, media, Main } from "@styles";
+import React from 'react';
+import { graphql, Link } from 'gatsby';
+import { Helmet } from 'react-helmet';
+import kebabCase from 'lodash/kebabCase';
+import PropTypes from 'prop-types';
+import { Layout } from '@components';
+import { IconZap } from '@components/icons';
+import styled from 'styled-components';
+import { theme, mixins, media, Main } from '@styles';
 const { colors, fontSizes, fonts } = theme;
 
 const StyledMainContainer = styled(Main)`
@@ -123,8 +123,8 @@ const BlogPage = ({ location, data }) => {
   return (
     <Layout location={location}>
       <Helmet>
-        <title>Blog | Arjun Nemani</title>
-        <link rel="canonical" href="https://nemani.dev/blog" />
+        <title>Blog | Debjyoti Ghosh</title>
+        <link rel="canonical" href="https://debjyoti.dev/blog" />
       </Helmet>
 
       <StyledMainContainer>
@@ -132,7 +132,7 @@ const BlogPage = ({ location, data }) => {
           <h1 className="big-title">Blog</h1>
           <p className="subtitle">
             <a href="/blog" target="_blank" rel="noopener noreferrer">
-              a collection of errors and lessons
+              A collection of trials, experiments and experiences
             </a>
           </p>
         </header>
