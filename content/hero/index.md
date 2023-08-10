@@ -1,6 +1,6 @@
 ---
 title: "Hi, my name is"
-avatar: "../about/meBlue.jpg"
+avatar: "../about/dj_ice.jpg"
 name: "Debjyoti Ghosh"
 subtitle: "I build and break things."
 buttonText: "Say Hello!"

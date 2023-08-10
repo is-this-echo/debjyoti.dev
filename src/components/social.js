@@ -16,7 +16,7 @@ const StyledList = styled.ul`
   list-style: none;
 
   &:after {
-    content: '';
+    content: "";
     display: block;
     width: 1px;
     height: 90px;
@@ -50,7 +50,8 @@ const Social = ({ isHome }) => (
               href={url}
               target="_blank"
               rel="nofollow noopener noreferrer"
-              aria-label={name}>
+              aria-label={name}
+            >
               <FormattedIcon name={name} />
             </StyledLink>
           </li>

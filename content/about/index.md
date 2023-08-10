@@ -1,27 +1,25 @@
 ---
 title: "About Me"
-avatar: "./meRed.jpg"
+avatar: "./dj_ice.jpg"
 skills:
-  - Python
+  - Typescript
   - Bash
   - Linux
-  - Ruby on Rails
+  - Solidity
   - DevOps
   - JavaScript
   - React
   - Node.js
 ---
 
-Hello!
+Hi there!
 
-I am Arjun, a software engineer based in Hyderabad, India.
+I am Debjyoti, a software engineer based in Bangalore, India.
 
-I enjoy building software that is performant and scalable.
-I like to automate processes and write code that is pleasant to read.
-I am also interested in product management and community building.
+I enjoy in writing code following best practices and make sure it is scalable and performant.
 
-I am finishing up on my studies at IIIT Hyderabad, with a Masters by Research in Computational Linguistics and Bachelors in Computer Science.
+Currently, (as of Jan 2022) I am in my final year of college at Indian Institute of Technology Kharagpur, with BS + MS degree in Geology and Geophysics.
 
-In the past I have worked with various startups helping build websites and products.
+During my time in college, I have worked in startups and with college profs to build apps and projects.
 
-Here are a few technologies I've been working with recently:
+Here are a few technologies I've been working with recently (2023):
